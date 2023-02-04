@@ -10,5 +10,5 @@ class WelcomePage extends StatelessWidget {
         title: const Text("Welcome Page"),
       ),
     );
-  }
+  } 
 }
